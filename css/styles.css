@@ -35,6 +35,8 @@
     justify-content: center;
     align-items: center;
     gap: 10px;
+} 
+.background-color{
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./work-people.jpg);
     max-width: 1440px;
     height: 600px;
@@ -42,6 +44,7 @@
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .button-style{
     background-color: #4D5AE5;
@@ -351,5 +354,5 @@ img{
     border-radius: 4px; 
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
-    
+
 }
