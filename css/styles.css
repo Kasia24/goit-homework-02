@@ -112,6 +112,7 @@
     text-decoration: none;
     font-family: "Roboto";
     position: relative;
+    color: #404bbf;
 }
 .link::after{
     content: "";
