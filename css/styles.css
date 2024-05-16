@@ -367,3 +367,8 @@ img{
 .footer{
     margin-right: 120px;
 }
+.icon.list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
