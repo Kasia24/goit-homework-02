@@ -392,3 +392,6 @@ img{
 .instagram:hover{
     background-color: #404bbf;
 }
+.instagram:focus{
+    background-color: #404bbf; 
+}
