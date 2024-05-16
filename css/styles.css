@@ -360,7 +360,10 @@ img{
     margin-bottom: 8px;
 
 }
-.footer{
+.footer-main{
     display: flex;
     align-items: baseline;
+}
+.footer{
+    margin-right: 120px;
 }
