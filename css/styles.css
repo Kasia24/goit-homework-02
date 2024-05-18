@@ -276,7 +276,7 @@
     height: 300px;
     position: absolute;
 }
-.box:hover .paragraph{
+.box:hover .paragraph*{
     transform:translateY(0);
 }
 .visually-hidden{
@@ -458,7 +458,7 @@ opacity: 0px;
     height: 40px;
     list-style-type: none;
 }
-.box{
+.box*{
     position: relative;
     overflow: hidden;
 }
