@@ -339,7 +339,7 @@ img{
 }
     
 .portfolio-list:hover{
-    box-shadow: 0px, 1px, 1px, 1px;
+    box-shadow: 0px 1px 1px 1px rgba(231, 233, 252, 1);
 }
 .list-first{
     width: calc(100% - 48px) / 3;
