@@ -330,12 +330,21 @@ img{
     padding-top: 120px; 
     padding-bottom: 120px;
 }
-.portfolio-list{
+.portfolio-list*{
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px; 
     row-gap: 48px;
     list-style-type: none;
+}
+.portfolio-list{
+    width: Fixed (360px)px;
+height: Fixed (120px)px;
+top: 300px;
+padding: 32px 16px 32px 16px;
+gap: 8px;
+border: 0px 1px 1px 1px;
+opacity: 0px;
 }
     
 .list-first:hover{
