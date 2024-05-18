@@ -277,7 +277,7 @@
     position: absolute;
 }
 .box:hover .paragraph{
-    transform:translateX(100%);
+    transform:translateY(0);
 }
 .visually-hidden{
     position: absolute;
