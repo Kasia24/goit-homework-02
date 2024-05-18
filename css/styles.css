@@ -275,6 +275,8 @@
     width: 360px;
     height: 300px;
     position: absolute;
+    top:0;
+    left:0;
 }
 .box:hover .parent{
     transform:translateY(0);
