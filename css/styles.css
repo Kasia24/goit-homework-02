@@ -483,5 +483,5 @@ img{
     left: 540px;
 }
 .img{
-    transition-property: all;
+    transition-property: transform;
 }
