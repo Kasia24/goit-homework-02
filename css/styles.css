@@ -276,7 +276,7 @@
     height: 300px;
     position: absolute;
 }
-.box:hover .paragraph*{
+.box:hover .parent{
     transform:translateY(0);
 }
 .visually-hidden{
