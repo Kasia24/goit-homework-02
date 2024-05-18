@@ -472,3 +472,6 @@ img{
     top: 3256px;
     left: 540px;
 }
+.img{
+    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
