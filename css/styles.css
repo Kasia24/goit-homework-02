@@ -278,7 +278,7 @@
     top:100%;
     left: 100%;
 }
-.list-first:hover .box{
+.parent:hover .box{
     transform:translateY(0);
 }
 .visually-hidden{
