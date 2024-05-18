@@ -462,4 +462,8 @@ img{
     align-items: center;
     justify-content: space-between;
     gap: 120px;
+    width: 208px;
+    height: 80px;
+    top: 3256px;
+    left: 540px;
 }
