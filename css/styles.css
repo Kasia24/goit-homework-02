@@ -356,8 +356,13 @@ img{
 .list-first:hover{
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
-.list-first*{
-    width: calc(100% - 48px) / 3;
+.list-first{
+    width: 360px;
+    height: 420px;
+    top: 2148px;
+    gap: 24px;
+    opacity: 0px;
+    background-color: #FFFFFF;
 }
 .name-list{
     padding: 32px 16px;
