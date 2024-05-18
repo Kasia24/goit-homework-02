@@ -454,3 +454,7 @@ opacity: 0px;
     height: 40px;
     list-style-type: none;
 }
+.box{
+    position: relative;
+    overflow: hidden;
+}
