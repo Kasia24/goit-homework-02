@@ -378,15 +378,6 @@ img{
     margin-bottom: 8px;
     list-style-type: none;
 }
-.name-list*{
-    width: Fixed (360px)px;
-height: Fixed (120px)px;
-top: 300px;
-padding: 32px 16px 32px 16px;
-gap: 8px;
-border: 0px 1px 1px 1px;
-opacity: 0px;
-}
 .navigation{
     display: flex;
     justify-content: space-between;
