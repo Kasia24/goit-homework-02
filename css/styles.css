@@ -369,8 +369,6 @@ img{
     gap: 24px;
     opacity: 0px;
     background-color: #FFFFFF;
-    position: relative;
-    overflow: hidden;
 }
 .name-list{
     padding: 32px 16px;
@@ -462,7 +460,9 @@ opacity: 0px;
     height: 40px;
     list-style-type: none;
 }
-.parent*{
+.parent{
     position: relative;
     overflow: hidden;
+    width: 360px;
+    height: 300px;
 }
