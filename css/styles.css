@@ -440,3 +440,8 @@ opacity: 0px;
     color: #FFFFFF;
     margin-bottom: 16px;
 }
+.media-list{
+    display: flex;
+    gap: 16px;
+}
+.
