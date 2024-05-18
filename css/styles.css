@@ -275,8 +275,8 @@
     width: 360px;
     height: 300px;
     position: absolute;
-    top:-50%;
-    left: -50%;
+    top:0%;
+    left: 0%;
 }
 .list-first:hover .box{
     transform:translateY(0);
