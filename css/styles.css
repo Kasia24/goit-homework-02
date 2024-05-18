@@ -338,7 +338,7 @@ img{
     list-style-type: none;
 }
     
-.portfolio-list .list-first:hover{
+.list-first:hover{
     box-shadow: 0px 1px 1px 1px rgba(231, 233, 252, 1);
 }
 .list-first{
