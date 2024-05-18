@@ -452,4 +452,5 @@ opacity: 0px;
 .media-style{
     width: 40px; 
     height: 40px;
+    list-style-type: none;
 }
