@@ -530,5 +530,8 @@ img{
     color: #ffffff; 
     cursor: pointer;
     background-color: #4D5AE5; 
-    
+    border: none; 
+    border-radius: 4px;
+}
+
 }
