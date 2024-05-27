@@ -500,5 +500,5 @@ img{
     display: flex;
 }
 .label{
-    
+    gap: 24px;
 }
