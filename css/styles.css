@@ -533,3 +533,7 @@ img{
     border: none; 
     border-radius: 4px;
 }
+.form-style{
+    display: inline;
+    gap: 24px;
+}
