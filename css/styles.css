@@ -534,6 +534,6 @@ img{
     border-radius: 4px;
 }
 .form-style{
-    display: inline;
+    display: block;
     gap: 24px;
 }
