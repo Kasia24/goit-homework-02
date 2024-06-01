@@ -238,7 +238,7 @@
 }
 .employer{
     padding: 32px 0px;
-    display: flex;
+    display: block;
     gap: 8px;
 }
 .social-icons{
