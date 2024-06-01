@@ -497,9 +497,6 @@ img{
     top: 3256px;
     left: 540px;
 }
-.link-active::after{
-    
-}
 .form-style{
 
 }
@@ -513,6 +510,11 @@ img{
 }
 .form{
     display: flex;
+}
+.formal-one{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
 }
 .label{
     gap: 24px;
