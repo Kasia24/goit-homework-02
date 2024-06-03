@@ -292,6 +292,9 @@
 .parent:hover .box{
     transform:translateY(0);
 }
+.name-list:hover .box{
+    transform:translateY(0);
+}
 .visually-hidden{
     position: absolute;
     width: 1px;
